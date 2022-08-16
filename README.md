@@ -1,6 +1,7 @@
 ### Hi there 👋
-### Im  developer jr en Full Stack and data Data Analytics
-<!--
+### - "If something is important enough, even if the odds are against you, you should keep trying."
+Elon Musk
+<!--https://www.linkedin.com/in/soria-juan/
 **juansoriaa/juansoriaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
