@@ -17,7 +17,6 @@ const ashraf = {
     technologies:{
         backEnd: ["nodejs", "Mongo DB", "python","MySQL"],
         fronEnd: ["React","HTML5","CSS3","JavaScript"],
-        mobileApp: ["ionic","angular"],
         dataAnalytics: ["Python","Anaconda"],
         },
 }
