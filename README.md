@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### Im yo soy desarrollador jr en full stack and data data analytics
 <!--
 **juansoriaa/juansoriaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
